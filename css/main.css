@@ -13,6 +13,9 @@ nav ul { list-style-type: none; margin: 0; padding: 0; }
 nav li a { display: block; color: #000; padding: 8px 16px; text-decoration: none; }
 nav li a:hover:not(.active) { background-color: #555; color: white; }
 
+/* Contact */
+contact { margin-right: 20px; }
+
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1em; }
 ul.posts li { list-style: none; }
