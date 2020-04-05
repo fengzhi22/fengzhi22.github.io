@@ -5,26 +5,51 @@
     
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  </head>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 20%;
+}
+
+.right {
+  width: 80%;
+}
+
+</style>
+</head>
 
 
   <body>
+<div class="column left">
     <nav>
-<ul>
+<h4>Fengzhi Zhu</h4>
+	<ul>
 <li><a href="/">Home</a></li>
 <li><a href="/cv">CV</a></li>
 <li><a href="/data">Data</a></li>
 <li><a href="/teaching">Teaching</a></li>
 <li><a href="/bio">Bio</a></li>
 <li><a href="/blog">Blog</a></li>
-</ul>
+	</ul>
     </nav>
-<div class="container">
-
-  {{ content }}
-
 </div>
-  
-  </body>
+<div class="column right">
+	<div class="container">
+
+  		{{ content }}
+
+	</div>
+</div>
+</body>
 
 </html>
