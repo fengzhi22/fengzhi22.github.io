@@ -11,14 +11,14 @@
 
 /* Create two unequal columns that floats next to each other */
 .column { float: left;padding: 10px; overflow: hidden; }
-.left { width: 20%; }
-.right { width: 80%; }
+.left { width: 25%; }
+.right { width: 75%; }
 
 /* Clear floats after the columns */
 .row:after {content: ""; display: table; clear: both; }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 1000px) { .column { width: 100%; } }
+@media screen and (max-width: 700px) { .column { width: 100%; } }
 
 </style>
 </head>
