@@ -2,11 +2,13 @@ a { text-decoration: none; color: #999; }
 
 p, ul { font-size: 1em; font-family: "Courier New"; line-height: 1.4em; color: #333; }
 
-h1, h2, h3, h4 { font-family: "Courier New"; }
+h1, h2, h3, h4, h5 { font-family: "Courier New"; }
 h1 { font-size: 2.4em;  }
 h2 { font-size: 2.1em; }
 h3 { font-size: 1.8em; }
 h4 { font-size: 1.5em; }
+h5 { font-size: 1.2em; }
+
 
 nav { margin-left: 50px; margin-top: 35px; }
 nav ul { list-style-type: none; margin: 0; padding: 0; background-color: #f1f1f1; }
