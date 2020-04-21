@@ -1,0 +1,52 @@
+I"�<p>This paper investigates three questions:
+<b>1. Do firms strategically manage the tone of words in earnings press release to influence investors’ perception? </b></p>
+
+<p>Yes, because ABTONE is associated with worse future earnings and operating cash flows (TABLE 4).</p>
+
+<p><b>2. If the upward tone management phenomenon is due to managerial incentives and agency problem, then tone management should be applied more frequently in circumstances where managers have stronger incentive to mislead the markets. Do they find more pronounced tone management under these situations?</b></p>
+
+<p>Generally yes. The authors studies the following 5 situations:</p>
+
+<p>Just meeting/beating thresholds: tone management complements (is positively associated with) beating or meeting earnings benchmarks to affect investor perception.</p>
+
+<p>Future earnings restatements: tone management is positively associated with future earnings restatements.</p>
+
+<p>Seasonal equity offerings: managers deploy tone management when announcing earnings prior to a stock issuance to incite greater excitement about the firm so as to obtain a better price for the newly issued shares.</p>
+
+<p>M&amp;A: one standard deviation increase in ABTONE is associated with an increase in the frequency of M&amp;A of 10 percent. The results suggest that tone management often accompanies acquisition activities.</p>
+
+<p>Stock option grants: managers strategically bias perceptions downward using tone in the earnings press release prior to an option grant to ensure a lower option strike price at the grant date.</p>
+
+<p><b>3. Do investors detect/react to tone management?</b>
+Market first reacts positively to tone management but reverses in subsequent 2-4 months.</p>
+
+<h5>Empirics</h5>
+<p>First, this paper develops the following model to assess normal and abnormal tone:</p>
+
+<p>(1) ΔNI<sub>t</sub> = α<sub>0</sub> + α<sub>1</sub>DΔNI<sub>t-1</sub> + α<sub>2</sub>ΔNI<sub>t-1</sub> + α<sub>3</sub>DΔNI<sub>t-1</sub>×ΔNI<sub>t-1</sub> + ε<sub>t</sub></p>
+
+<p>Normal positive tone, NTONE, is the predicted value of Regression (3). ABTONE , abnormal positive tone, is the residual of Regression (3). By construction, ABTONE is therefore designed to be unrelated to firm fundamentals and business environment such as current market and financial performance, growth prospects, and firm operating risk and complexity.</p>
+
+<p>This model has a drawback that it gives very low R-square, and according to Chen, Hribar and Melessa (2018), using residuals obtained from low-R-square regressions as dependent/independent variables can be statistically problematic and may lead to incorrect inferences.</p>
+
+<p>Next, this paper deploys the following model to evaluate the relation between abnormal tone and future performance (in terms of future earnings and operating cash flows), which is “<i>crucial for distinguishing between whether abnormal positive tone informs or misinforms investors</i>” (Huang et al., 2014, pp. 1085).
+(2) ACC<sub>t</sub> = β<sub>0</sub> + β<sub>1</sub>DCFO<sub>t</sub> + β<sub>2</sub>CFO<sub>t</sub> + β<sub>3</sub>DCFO<sub>t</sub>×CFO<sub>t</sub> + ν<sub>t</sub></p>
+
+<p>(3) ACC<sub>t</sub> = ΔInventory + ΔDebtors + ΔOther current assets - ΔCreditors - ΔOther current liabilities - Depreciation</p>
+
+<p>The first model measures the persistence of net income. In theory, if firms report gains in a more timely manner than losses, then gains should be more persistent than losses, and do not tend to reverse. Therefore, α<sub>1</sub> is expected to be 0. And because losses are transitory and tend to reverse in the following period, α<sub>2</sub> + α<sub>3</sub> is expected to be negative. The incremental persistence, which is measured by α<sub>3</sub>, should be negative.</p>
+
+<p>The second model is adapted from Dechow et al. (1998) and is focused on two functionalities of accruals: 1) mitigating noise in operating cash flow; 2) timely recognition of economic gains and losses. The first role implies that β<sub>2</sub> should be negative (Dechow et al. 1998), the second role implies that β<sub>3</sub> should be positive. The rationale behind the second role of accruals is that there should be a positive but asymmetric correlation between accruals and contemporaneous cash flows, because revisions in current period cash flow are positively correlated with current revisions in expected future cash flows. For example, an investment experiencing decreased current period cash flow is likely also to be experiencing a downward revision in its future prospects: i.e., in its expected future cash flows.</p>
+
+<h5>Note</h5>
+<p>This paper develops a new model related to accruals to measure timeliness of economic loss recognition, which can be applied to future studies.</p>
+
+<p>It could add some sort of test to examine whether the reporting quality gap between private and public firms results from demand or supply side. Although the authors have made an argument on this point but the mechanisms are not formally tested.</p>
+
+<h5>References</h5>
+<li>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-679X.12195">Chen, W., Hribar, P., &amp; Melessa, S. (2018). Incorrect inferences when using residuals as dependent variables. Journal of Accounting Research, 56(3), 751-796.<a>
+<li>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0165410197000141">Basu, S. (1997). The conservatism principle and the asymmetric timeliness of earnings. Journal of accounting and economics, 24(1), 3-37.<a>
+</a></a></li></a></a></li>
+:ET
