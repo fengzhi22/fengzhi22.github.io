@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper note: D'augusta and DeAngelis 2020 CAR"
+title: "Paper note: D'Augusta and DeAngelis 2020 CAR"
 date: 2020-04-22
 ---
 
