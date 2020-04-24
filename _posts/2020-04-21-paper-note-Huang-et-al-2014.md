@@ -44,7 +44,7 @@ Next, this paper deploys the following model to evaluate the relation between ab
 
 (3) CFO<sub>jt+n</sub> = &alpha; + &beta;<sub>0</sub>ABTONE<sub>jt</sub> + &beta;<sub>1</sub>DA<sub>jt</sub> + &beta;<sub>2</sub>EARN<sub>jt</sub> + &beta;<sub>3</sub>SIZE<sub>jt</sub> + &beta;<sub>4</sub>BTM<sub>jt</sub> +&beta;<sub>5</sub>RET<sub>jt</sub> + &beta;<sub>6</sub>STD_RET<sub>jt</sub> + &beta;<sub>7</sub>STD_EARN<sub>jt</sub> + &epsilon;<sub>jt</sub>
 
-I failed to replicate this negative results from model (2) and (3) with 10-Q data, but without controlling for discretionary accruals (DA).
+I failed to replicate this negative results from model (2) and (3) with 10-Q data, specifically, I get significantly positive coefficients for ABTONE in EARN<sub>jt+1</sub> and EARN<sub>jt+2</sub> regressions, and insignificant results for the rest four (EARN<sub>jt+3</sub>, CFO<sub>jt+1</sub>, CFO<sub>jt+2</sub>, CFO<sub>jt+3</sub>) regressions.
 
 <h5>Strengths</h5>
 This paper develops a new model to measure abnormal tone, which is by construction unrelated to firm fundamentals and reflects managerial discretion in communication via earnings press releases. And this paper is quite well structured in terms of writing logic flow, with good transition paragraphs. 
