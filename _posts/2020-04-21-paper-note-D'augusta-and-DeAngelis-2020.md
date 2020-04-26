@@ -11,7 +11,7 @@ This paper hypothesizes and finds evidence that accounting conservatism constrai
 
 In broader sense, this paper intends to analyze the relationship or interaction between properties of quantitative (conditional conservatism) and qualitative (abnormal tone) disclosure. But there is a fundamental problem: under reasonable circumstances, these two types of disclosure should be simultaneously chosen by firms. Whether these two types of disclosure themselves are correlated with each other, and how in case that there is correlation, are not obvious. Do they complement or substitute each other? Do they converge or diverge in contents? There is no consensus in extant literature, and therefore it remains an interesting and open research question. 
 
-This paper differs from my current working project in that my research question focus solely on one property of narrative disclosure, which is its responsiveness to good v.s. bad news, i.e. whether narrative disclosure <i>per se</i> is conservative or not, and I do not intend to get into the interaction between quantitative and qualitative disclosure, for the moment.  
+This paper differs from my current working project in that my research question focuses solely on one property of narrative disclosure, which is its responsiveness to good v.s. bad news, i.e. whether narrative disclosure <i>per se</i> is conservative or not, and I do not intend to get into the interaction between quantitative and qualitative disclosure, for the moment.  
 
 <b>Mechanism</b>
 
