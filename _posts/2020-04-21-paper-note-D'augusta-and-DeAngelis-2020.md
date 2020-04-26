@@ -33,7 +33,7 @@ The following model is deployed to access the constraining effect of conservatis
 
 (1) ABTONE = &alpha;<sub>0</sub> + &alpha;<sub>1</sub>CONS + &alpha;<sub>2</sub>LEV + &alpha;<sub>3</sub>SPREAD + &alpha;<sub>4</sub>FOLLOW + &alpha;<sub>5</sub>LITRISK +&alpha;<sub>6</sub>INSTOWN + &epsilon;
 
-This model may lead to incorrect inferences because ABTONE is residuals obtained from a first-step regression that has low R-square (17% - 19%), according to Chen, Hribar and Melessa (2018). 
+This model may lead to incorrect inferences because ABTONE is residuals obtained from a first-step regression that has low R-square (17% - 19%), according to Chen, Hribar and Melessa (2018). Several corrections can be applied to obtain an unbiased estimate, and one of them is to include all first-step regressors into second-step regression as controls. 
 
 <b>Endogeneity tests</b>
 
