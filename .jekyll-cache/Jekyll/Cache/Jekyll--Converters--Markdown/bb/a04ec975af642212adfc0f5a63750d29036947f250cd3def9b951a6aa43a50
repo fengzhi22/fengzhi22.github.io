@@ -1,4 +1,4 @@
-I"<p>This paper investigates three questions.</p>
+I""<p>This paper investigates three questions.</p>
 
 <p><b>1. Do firms strategically manage the tone of words in earnings press release to influence investors’ perception? </b></p>
 
@@ -37,7 +37,7 @@
 
 <p>(3) CFO<sub>jt+n</sub> = α + β<sub>0</sub>ABTONE<sub>jt</sub> + β<sub>1</sub>DA<sub>jt</sub> + β<sub>2</sub>EARN<sub>jt</sub> + β<sub>3</sub>SIZE<sub>jt</sub> + β<sub>4</sub>BTM<sub>jt</sub> +β<sub>5</sub>RET<sub>jt</sub> + β<sub>6</sub>STD_RET<sub>jt</sub> + β<sub>7</sub>STD_EARN<sub>jt</sub> + ε<sub>jt</sub></p>
 
-<p>I failed to replicate this negative results from model (2) and (3) with 10-Q data, but without controlling for discretionary accruals (DA).</p>
+<p>I failed to replicate this negative results from model (2) and (3) with 10-Q data. Specifically, I got significantly positive coefficients for ABTONE in EARN<sub>jt+1</sub> and EARN<sub>jt+2</sub> regressions, which suggests that the abnormal positive tone actually informs investors, and insignificant results for the other four (EARN<sub>jt+3</sub>, CFO<sub>jt+1</sub>, CFO<sub>jt+2</sub>, CFO<sub>jt+3</sub>) regressions.</p>
 
 <h5>Strengths</h5>
 <p>This paper develops a new model to measure abnormal tone, which is by construction unrelated to firm fundamentals and reflects managerial discretion in communication via earnings press releases. And this paper is quite well structured in terms of writing logic flow, with good transition paragraphs.</p>

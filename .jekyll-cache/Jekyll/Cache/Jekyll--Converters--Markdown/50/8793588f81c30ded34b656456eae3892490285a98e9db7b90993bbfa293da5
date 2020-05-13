@@ -1,15 +1,15 @@
-I"$"<p>This paper hypothesizes and finds evidence that accounting conservatism constrains upward tone management (UTM) in the MD&amp;A. This constraining effect is stronger in situations where managers have higher incentives to manipulate tone upwards (1. just meeting/beating analyst consensus forecast 2. M&amp;A and SEO 3. option grants). The authors conclude that accounting conservatism improves disclosure narratives.</p>
+I"�"<p>This paper hypothesizes and finds evidence that accounting conservatism constrains upward tone management (UTM) in the MD&amp;A. This constraining effect is stronger in situations where managers have higher incentives to manipulate tone upwards (1. just meeting/beating analyst consensus forecast 2. M&amp;A and SEO 3. option grants). The authors conclude that accounting conservatism improves disclosure narratives.</p>
 
 <h5>Theory</h5>
 <p><b>Quantitative (numerical) and Qualitative (narrative) disclosure</b></p>
 
 <p>In broader sense, this paper intends to analyze the relationship or interaction between properties of quantitative (conditional conservatism) and qualitative (abnormal tone) disclosure. But there is a fundamental problem: under reasonable circumstances, these two types of disclosure should be simultaneously chosen by firms. Whether these two types of disclosure themselves are correlated with each other, and how in case that there is correlation, are not obvious. Do they complement or substitute each other? Do they converge or diverge in contents? There is no consensus in extant literature, and therefore it remains an interesting and open research question.</p>
 
-<p>This paper differs from my current working project in that my research question focus solely on one property of narrative disclosure, which is its responsiveness to good v.s. bad news, i.e. whether narrative disclosure <i>per se</i> is conservative or not, and I do not intend to get into the interaction between quantitative and qualitative disclosure, for the moment.</p>
+<p>This paper differs from my current working project in that my research question focuses solely on one property of narrative disclosure, which is its responsiveness to good v.s. bad news, i.e. whether narrative disclosure <i>per se</i> is conservative or not, and I do not intend to get into the interaction between quantitative and qualitative disclosure, for the moment.</p>
 
 <p><b>Mechanism</b></p>
 
-<p>The theoretical argument of how conservatism constrains UTM is not strong. I could imagine a situation in which a manager choose to be conditionally conservative in numerical disclosure, i.e. requiring higher verification for good news to be recognized in financial statements, and it is likely that she will also requiring higher verification for good news to be talked about in narrative disclosure, because of consistency. Therefore, there could exists an association between high level of conservatism and low level of UTM. But, in this situation, we cannot claim that it is conservatism that reduces UTM because it the managerial discretion in reporting policy that simultaneously determines the two. However, I cannot think about a pathway through which conditional conservatism <i>per se </i> affects UTM.</p>
+<p>The theoretical argument of how conservatism constrains UTM is not strong. I could imagine a situation in which a manager choose to be conditionally conservative in numerical disclosure, i.e. requiring higher verification for good news to be recognized in financial statements, and it is likely that she will also requiring higher verification for good news to be talked about in narrative disclosure, because of consistency. Therefore, there could exists an association between high level of conservatism and low level of UTM. But, in this situation, we cannot claim that it is conservatism that reduces UTM because it is the managerial discretion in reporting policy that simultaneously determines the two. However, I cannot think about a pathway through which conditional conservatism <i>per se </i> affects UTM.</p>
 
 <p>The authors indeed provide some explanation about mechanisms, which are quite vague, as they wrote:</p>
 
@@ -27,7 +27,7 @@
 
 <p>(1) ABTONE = α<sub>0</sub> + α<sub>1</sub>CONS + α<sub>2</sub>LEV + α<sub>3</sub>SPREAD + α<sub>4</sub>FOLLOW + α<sub>5</sub>LITRISK +α<sub>6</sub>INSTOWN + ε</p>
 
-<p>This model may lead to incorrect inferences because ABTONE is residuals obtained from a first-step regression that has low R-square (17% - 19%), according to Chen, Hribar and Melessa (2018).</p>
+<p>This model may lead to incorrect inferences because ABTONE is residuals obtained from a first-step regression that has low R-square (17% - 19%), according to Chen, Hribar and Melessa (2018). Several corrections can be applied to obtain an unbiased estimate, and one of them is to include all first-step regressors into second-step regression as controls.</p>
 
 <p><b>Endogeneity tests</b></p>
 
@@ -43,7 +43,7 @@
 
 <p><b>Sample</b></p>
 
-<p>In contrast to prior literature of textual analysis, which usually contains a section about parsing the text document, this paper did not mention any technical details about parsing. And from my experience, extracting 10-K MD&amp;A section from EDGAR raw filings is not an easy task. It is another thing if they used the processed LM dataset (which does not separate MD&amp;A from the rest of texts in 10-X) or WRDS SEC analytics (which provides parsed MD&amp;A), but it is unlikely the case since the authors did not mention the above sources. The authors could be more transparent about data collection process.</p>
+<p>In contrast to prior literature of textual analysis, which usually contains a section about parsing the text document, this paper did not mention any technical details about parsing. And from my experience, extracting 10-K MD&amp;A section from EDGAR raw filings is not an easy task. It is another thing if they used the processed LM dataset (which does not separate MD&amp;A from the rest of texts in 10-X) or WRDS SEC analytics (which provides clean MD&amp;A), but it is unlikely the case since the authors did not mention the above sources. The authors could be more transparent about data collection process.</p>
 
 <h5>Reading list</h5>
 <p>This paper applies four proxies in extant literature to measure conditional conservatism:</p>
@@ -53,7 +53,7 @@
     <p>Givoly and Hayn (2000)</p>
   </li>
   <li>
-    <p>Khan and Watts (2009)</p>
+    <p>Khan and Watts (2009) (have replicated in master thesis)</p>
   </li>
   <li>
     <p>Callen, Segal and Hope (2010)</p>
