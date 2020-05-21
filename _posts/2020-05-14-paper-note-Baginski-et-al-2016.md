@@ -13,7 +13,7 @@ This study is also interesting in documenting the interaction between narrative 
 <i>"Prior management forecast research documents the effects of supplemental disclosures on the pricing of quantitative forecast news. We complement this finding by documenting the reverse effect of quantitative management forecast news on the pricing of supplemental linguistic tone.”</i>
 
 <h5>Writing</h5>
-This paper is very well-written, as it contains many detailed explanations in data selection process (large firm sample bias) and the motivations behind model specifications (why cluster). It also inspires me about how to make use of LM certainty and litigation construct. 
+This paper is very well-written, as it contains many detailed explanations in data selection process (large firm sample bias) and the motivations behind model specifications (why cluster). It is also inspiring on how to make use of LM certainty and litigation construct. 
 
 <h5>References</h5>
 <li>
